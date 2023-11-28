@@ -43,5 +43,7 @@ const a = new ListNode(1, null)
 const b = new ListNode(2, a)
 const c = new ListNode(3, b)
 
-console.log('reverseList(c):', reverseList(c))// @lc code=end
+// const result = reverseList(c)
+// console.log('reverseList(c):', result)// @lc code=end
 
+export{}
